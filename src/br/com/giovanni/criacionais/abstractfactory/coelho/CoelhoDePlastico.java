@@ -1,4 +1,4 @@
-package br.com.giovanni.criacionais.abstractfactory;
+package br.com.giovanni.criacionais.abstractfactory.coelho;
 
 /**
  *
