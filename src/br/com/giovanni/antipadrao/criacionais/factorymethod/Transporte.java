@@ -1,4 +1,4 @@
-package br.com.giovanni.antipadrao.factorymethod;
+package br.com.giovanni.antipadrao.criacionais.factorymethod;
 
 
 /**
